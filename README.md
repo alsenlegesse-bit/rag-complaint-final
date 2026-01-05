@@ -17,3 +17,12 @@ Transform unstructured complaint data into actionable insights for product manag
 2. Install requirements: `pip install -r requirements.txt`
 3. Download the dataset to `data/raw/complaints.csv`
 4. Run Task 1: `python src/task1_eda_preprocessing.py`
+
+## Final Project Submission
+Complete RAG-based complaint analysis system with:
+- Vector embeddings and FAISS search
+- LLM-powered analysis
+- Gradio web interface
+- Comprehensive documentation
+
+See FINAL_REPORT.md for detailed analysis.
