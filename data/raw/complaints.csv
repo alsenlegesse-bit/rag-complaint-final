@@ -1,4 +1,4 @@
-id,complaint,category
-1,International transfer delayed 5 days,transfers
-2,Hidden fee of 0 appeared on statement,fees
-3,Loan application rejected without reason,loans
+id,category,complaint_text
+1,transfers,"International wire transfer delayed by 5 days"
+2,fees,"Unexpected $25 monthly maintenance fee"
+3,loans,"Personal loan application rejected without explanation"
