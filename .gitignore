@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files - SMART EXCLUSIONS
+data/raw/*                    # Raw data too large
+!data/raw/.gitkeep
+
+# DO NOT block processed/ - allow specific files
+# data/processed/*          # COMMENTED OUT - allows files
+
+# Vector store - allow metadata but not huge binaries
+# vector_store/*           # COMMENTED OUT - we'll handle specifically
+
+# Specific large file types to exclude
+*.parquet
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Python virtual environment
+myenv/
+.env/
+
+# EXCEPTIONS - Files that SHOULD be tracked
+!data/processed/filtered_complaints.csv
+!vector_store/metadata.json

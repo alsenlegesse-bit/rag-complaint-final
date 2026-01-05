@@ -1,0 +1,68 @@
+[
+  {
+    "chunk_id": 0,
+    "text_preview": "xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx apt xxxx, xxxx, tx xxxx xxxx xx xx xxxx transunion consumer ...",
+    "text_length": 494,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 1,
+    "text_preview": "including but not limited to the fair credit reporting act and any other relevant regulations, i her...",
+    "text_length": 493,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 2,
+    "text_preview": "to prevent unauthorized third party access, except for those legally authorized or with my explicit ...",
+    "text_length": 497,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 3,
+    "text_preview": "bank statement confirming my current address. o a copy of my social security number. affirmation i d...",
+    "text_length": 495,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 4,
+    "text_preview": "attention to this matter. sincerely, xxxx xxxx xxxx xxxx",
+    "text_length": 56,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 5,
+    "text_preview": "subject dispute of unauthorized hard inquiries on credit report xxxx xxxx xxxx xxxx xxxx xxxx xxxx x...",
+    "text_length": 499,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 6,
+    "text_preview": "attempts to resolve this matter with the credit bureaus, these inquiries remain on my report. the di...",
+    "text_length": 499,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 7,
+    "text_preview": "never consented to this inquiry. xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xx...",
+    "text_length": 497,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 8,
+    "text_preview": "xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx ...",
+    "text_length": 496,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 9,
+    "text_preview": "their immediate removal from my credit file. i have previously contacted the credit bureaus regardin...",
+    "text_length": 493,
+    "vector_db": "FAISS"
+  },
+  {
+    "chunk_id": 10,
+    "text_preview": "as well as any supporting documents. i kindly request that you take action to have these inquiries r...",
+    "text_length": 334,
+    "vector_db": "FAISS"
+  }
+]
